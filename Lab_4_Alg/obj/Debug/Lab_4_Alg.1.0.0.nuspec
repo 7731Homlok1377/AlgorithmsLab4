@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lab_4_Alg</id>
+    <version>1.0.0</version>
+    <authors>Lab_4_Alg</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Olga\Desktop\Алгоритмы\Lab 4\Lab_4_Alg\Lab_4_Alg\bin\Debug\net5.0\Lab_4_Alg.runtimeconfig.json" target="lib\net5.0\Lab_4_Alg.runtimeconfig.json" />
+    <file src="C:\Users\Olga\Desktop\Алгоритмы\Lab 4\Lab_4_Alg\Lab_4_Alg\bin\Debug\net5.0\Lab_4_Alg.dll" target="lib\net5.0\Lab_4_Alg.dll" />
+  </files>
+</package>
